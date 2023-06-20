@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/called-higher-book/static/css/main.073c9b0a.css",
-    "main.js": "/called-higher-book/static/js/main.48c47037.js",
+    "main.css": "/called-higher-book/static/css/main.c287b699.css",
+    "main.js": "/called-higher-book/static/js/main.aadbbb73.js",
     "static/js/787.4a53297b.chunk.js": "/called-higher-book/static/js/787.4a53297b.chunk.js",
+    "static/media/2023-01-30_ProfitandLoss.jpg": "/called-higher-book/static/media/2023-01-30_ProfitandLoss.6d50a215727cd48e5de5.jpg",
+    "static/media/2023-01-30_StatementofCashFlows.jpg": "/called-higher-book/static/media/2023-01-30_StatementofCashFlows.e3bb431f4a50f57b66d1.jpg",
+    "static/media/2023-01-30_ProfitandLoss2.jpg": "/called-higher-book/static/media/2023-01-30_ProfitandLoss2.c65a2694c8606efc617f.jpg",
     "index.html": "/called-higher-book/index.html",
-    "main.073c9b0a.css.map": "/called-higher-book/static/css/main.073c9b0a.css.map",
-    "main.48c47037.js.map": "/called-higher-book/static/js/main.48c47037.js.map",
+    "main.c287b699.css.map": "/called-higher-book/static/css/main.c287b699.css.map",
+    "main.aadbbb73.js.map": "/called-higher-book/static/js/main.aadbbb73.js.map",
     "787.4a53297b.chunk.js.map": "/called-higher-book/static/js/787.4a53297b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.48c47037.js"
+    "static/css/main.c287b699.css",
+    "static/js/main.aadbbb73.js"
   ]
 }
