@@ -1,18 +1,27 @@
 {
   "files": {
     "main.css": "/called-higher-book/static/css/main.c287b699.css",
-    "main.js": "/called-higher-book/static/js/main.aadbbb73.js",
+    "main.js": "/called-higher-book/static/js/main.df9bbb9c.js",
     "static/js/787.4a53297b.chunk.js": "/called-higher-book/static/js/787.4a53297b.chunk.js",
+    "static/media/called_higher_retail_audio_sample.mp3": "/called-higher-book/static/media/called_higher_retail_audio_sample.3c69e3acfa5ba896107c.mp3",
+    "static/media/paperback.jpg": "/called-higher-book/static/media/paperback.eb1445c6f03a739b7b7b.jpg",
+    "static/media/hardcover.jpg": "/called-higher-book/static/media/hardcover.234c3ad41fbe3fb2826f.jpg",
     "static/media/2023-01-30_ProfitandLoss.jpg": "/called-higher-book/static/media/2023-01-30_ProfitandLoss.6d50a215727cd48e5de5.jpg",
     "static/media/2023-01-30_StatementofCashFlows.jpg": "/called-higher-book/static/media/2023-01-30_StatementofCashFlows.e3bb431f4a50f57b66d1.jpg",
+    "static/media/kobo.jpeg": "/called-higher-book/static/media/kobo.328ef3fcc0c24d7e6fe7.jpeg",
+    "static/media/audible.jpeg": "/called-higher-book/static/media/audible.989ff0e78eb955daf5f3.jpeg",
+    "static/media/kindle.jpeg": "/called-higher-book/static/media/kindle.a7a42ea46cad9905c25a.jpeg",
+    "static/media/apple-books.jpeg": "/called-higher-book/static/media/apple-books.3ceae4b0a2e9d4d60265.jpeg",
     "static/media/2023-01-30_ProfitandLoss2.jpg": "/called-higher-book/static/media/2023-01-30_ProfitandLoss2.c65a2694c8606efc617f.jpg",
+    "static/media/google-play.jpeg": "/called-higher-book/static/media/google-play.6ed907842bfe230c15c7.jpeg",
+    "static/media/nook.jpeg": "/called-higher-book/static/media/nook.cc9cc96953653db81a47.jpeg",
     "index.html": "/called-higher-book/index.html",
     "main.c287b699.css.map": "/called-higher-book/static/css/main.c287b699.css.map",
-    "main.aadbbb73.js.map": "/called-higher-book/static/js/main.aadbbb73.js.map",
+    "main.df9bbb9c.js.map": "/called-higher-book/static/js/main.df9bbb9c.js.map",
     "787.4a53297b.chunk.js.map": "/called-higher-book/static/js/787.4a53297b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c287b699.css",
-    "static/js/main.aadbbb73.js"
+    "static/js/main.df9bbb9c.js"
   ]
 }
