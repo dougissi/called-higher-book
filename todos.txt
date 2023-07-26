@@ -1,0 +1,3 @@
+* “Buy now” button in the Book section of the About page
+X favicon
+* more space between sections on home page (and perhaps on other pages)

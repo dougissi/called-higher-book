@@ -1,8 +1,8 @@
 import './App.css';
 import React from 'react';
-import { Route, Routes, Link } from "react-router-dom";
+import { Route, Routes, redirect } from "react-router-dom";
 import Home from './components/Home';
-import About from './About';
+import About from './components/About';
 import Resources from './components/Resources';
 import FAQ from './components/FAQ';
 import ResponsiveAppBar from './components/ResponsiveAppBar';
