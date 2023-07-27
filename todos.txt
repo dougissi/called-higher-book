@@ -1,5 +1,6 @@
-* add Quick Links page to interface with social media
+X add Quick Links page to interface with social media
 * add social media icons and links
+* redirect /sticks to /resources
 * “Buy now” button in the Book section of the About page
 X favicon
 * more space between sections on home page (and perhaps on other pages)
