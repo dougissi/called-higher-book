@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.c287b699.css",
-    "main.js": "/static/js/main.81bf6fe8.js",
-    "static/js/787.4a53297b.chunk.js": "/static/js/787.4a53297b.chunk.js",
-    "static/media/called_higher_retail_audio_sample.mp3": "/static/media/called_higher_retail_audio_sample.3c69e3acfa5ba896107c.mp3",
-    "static/media/paperback.jpg": "/static/media/paperback.eb1445c6f03a739b7b7b.jpg",
-    "static/media/hardcover.jpg": "/static/media/hardcover.234c3ad41fbe3fb2826f.jpg",
-    "static/media/2023-01-30_ProfitandLoss.jpg": "/static/media/2023-01-30_ProfitandLoss.6d50a215727cd48e5de5.jpg",
-    "static/media/2023-01-30_StatementofCashFlows.jpg": "/static/media/2023-01-30_StatementofCashFlows.e3bb431f4a50f57b66d1.jpg",
-    "static/media/kobo.jpeg": "/static/media/kobo.328ef3fcc0c24d7e6fe7.jpeg",
-    "static/media/audible.jpeg": "/static/media/audible.989ff0e78eb955daf5f3.jpeg",
-    "static/media/kindle.jpeg": "/static/media/kindle.a7a42ea46cad9905c25a.jpeg",
-    "static/media/apple-books.jpeg": "/static/media/apple-books.3ceae4b0a2e9d4d60265.jpeg",
-    "static/media/2023-01-30_ProfitandLoss2.jpg": "/static/media/2023-01-30_ProfitandLoss2.c65a2694c8606efc617f.jpg",
-    "static/media/google-play.jpeg": "/static/media/google-play.6ed907842bfe230c15c7.jpeg",
-    "static/media/nook.jpeg": "/static/media/nook.cc9cc96953653db81a47.jpeg",
-    "index.html": "/index.html",
-    "main.c287b699.css.map": "/static/css/main.c287b699.css.map",
-    "main.81bf6fe8.js.map": "/static/js/main.81bf6fe8.js.map",
-    "787.4a53297b.chunk.js.map": "/static/js/787.4a53297b.chunk.js.map"
+    "main.css": "./static/css/main.c287b699.css",
+    "main.js": "./static/js/main.acf4b310.js",
+    "static/js/787.4a53297b.chunk.js": "./static/js/787.4a53297b.chunk.js",
+    "static/media/called_higher_retail_audio_sample.mp3": "./static/media/called_higher_retail_audio_sample.3c69e3acfa5ba896107c.mp3",
+    "static/media/paperback.jpg": "./static/media/paperback.eb1445c6f03a739b7b7b.jpg",
+    "static/media/hardcover.jpg": "./static/media/hardcover.234c3ad41fbe3fb2826f.jpg",
+    "static/media/2023-01-30_ProfitandLoss.jpg": "./static/media/2023-01-30_ProfitandLoss.6d50a215727cd48e5de5.jpg",
+    "static/media/2023-01-30_StatementofCashFlows.jpg": "./static/media/2023-01-30_StatementofCashFlows.e3bb431f4a50f57b66d1.jpg",
+    "static/media/kobo.jpeg": "./static/media/kobo.328ef3fcc0c24d7e6fe7.jpeg",
+    "static/media/audible.jpeg": "./static/media/audible.989ff0e78eb955daf5f3.jpeg",
+    "static/media/kindle.jpeg": "./static/media/kindle.a7a42ea46cad9905c25a.jpeg",
+    "static/media/apple-books.jpeg": "./static/media/apple-books.3ceae4b0a2e9d4d60265.jpeg",
+    "static/media/2023-01-30_ProfitandLoss2.jpg": "./static/media/2023-01-30_ProfitandLoss2.c65a2694c8606efc617f.jpg",
+    "static/media/google-play.jpeg": "./static/media/google-play.6ed907842bfe230c15c7.jpeg",
+    "static/media/nook.jpeg": "./static/media/nook.cc9cc96953653db81a47.jpeg",
+    "index.html": "./index.html",
+    "main.c287b699.css.map": "./static/css/main.c287b699.css.map",
+    "main.acf4b310.js.map": "./static/js/main.acf4b310.js.map",
+    "787.4a53297b.chunk.js.map": "./static/js/787.4a53297b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c287b699.css",
-    "static/js/main.81bf6fe8.js"
+    "static/js/main.acf4b310.js"
   ]
 }
